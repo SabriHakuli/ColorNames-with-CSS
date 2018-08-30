@@ -10,7 +10,7 @@
 
 
 ```
-> https://sabrihakuli.github.io/HexColorNames/ColorNames.css
+ https://sabrihakuli.github.io/HexColorNames/ColorNames.css
 ```
 </p>
 
