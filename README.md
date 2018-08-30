@@ -7,18 +7,27 @@
   Code Easy <br>
     <a href="https://sabrihakuli.github.io/HexColorNames/">Explore the colors »</a><br>
   <a href="https://sabrihakuli.github.io/HexColorNames/ColorNames.css"><strong>Download or use the CDN»</strong></a><br>
-
-
-```
- https://sabrihakuli.github.io/HexColorNames/ColorNames.css
-```
 </p>
 
 <br>
 
-# ColorNames with CSS
-An CSS file that you can use names of HexColors. This CSS file can help people that cant remember or memorize the HexColors! We have named and will continue to name all HexColors.
+# HexColorNames
+`HexColorNames.css` is an bunch of colors that you can use names of HexColors. This CSS file can help people that cant remember or memorize the HexColors! We have named and will continue to name all HexColors.
 
+## Intsllation 
+1. Include the stylesheet on your document's `head` 
+```
+<head>
+  <link rel="stylesheet" href="HexColorNames.css">
+</head>
+```
+2. Instead of installing you may use the remote version
+```
+<head>
+  <link rel="stylesheet"
+  https://sabrihakuli.github.io/HexColorNames/ColorNames.css
+</head>
+```
 ## Usage
 To use the colors you must named HTML clasess with the name of color. But before the color name you must add the text *Color* and than the name of color. Also the colors can use as a background, adding the *background* before the color name!
 
