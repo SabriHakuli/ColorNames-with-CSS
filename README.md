@@ -5,7 +5,13 @@
   <h3 align="center">HEX Color Names</h3>
   <p align="center">
   Code Easy <br>
-    <a href="https://sabrihakuli.github.io/HexColorNames/"><strong>Explore the colors »</strong></a>
+    <a href="https://sabrihakuli.github.io/HexColorNames/">Explore the colors »</a><br>
+  <a href="https://sabrihakuli.github.io/HexColorNames/ColorNames.css"><strong>Download or use the CDN»</strong></a><br>
+
+
+```
+> https://sabrihakuli.github.io/HexColorNames/ColorNames.css
+```
 </p>
 
 <br>
