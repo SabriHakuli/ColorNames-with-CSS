@@ -5,7 +5,7 @@
   <h3 align="center">HEX Color Names</h3>
   <p align="center">
   Code Easy <br>
-    <a href="https://getbootstrap.com/docs/4.1/"><strong>Explore the colors »</strong></a>
+    <a href="https://sabrihakuli.github.io/HexColorNames/"><strong>Explore the colors »</strong></a>
 </p>
 
 <br>
