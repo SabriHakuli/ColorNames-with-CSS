@@ -42,3 +42,5 @@ To use the colors you must named HTML clasess with the name of color. But before
 <div class="BackgroudnDarkRed"> This is a Dark Red Background</div>
 ```
 
+## Contributing
+Pull requests are the way to go here. Before submitting a pull let us see a demo of submitted animations in a <a href="https://codepen.io/#/">pen</a>. 
